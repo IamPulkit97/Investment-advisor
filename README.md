@@ -38,7 +38,7 @@ Finding our client’s potential investment amount for further investing in stoc
  - Based on the changing drop down value we had to calculate their respective investemnt prospect. In other words which comapnies can the individual invest
    in.
    
- ### Dashboard
+## Dashboard
  
  ![image](https://user-images.githubusercontent.com/117629056/202873389-89aeaf80-ca4b-47d1-86bf-d593a65990fa.png)
 
