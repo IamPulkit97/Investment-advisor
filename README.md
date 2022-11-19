@@ -25,14 +25,15 @@ Finding our client’s potential investment amount for further investing in stoc
 
 ## Pandas 
 
-  ### Task One:
+ ### Task One:
   
 - Fist we with the help of Gspread imported the sheet in the python
 - Then we used Pandas to create dataframe for all the particular files
 - After that we calculated amount to be invested by substracting all the expense values from the income and displayed that amount that can be invested back into the
   gsheets
   
-  ### Task Two:
+ ### Task Two:
+ 
  - There was already a drop down menu in the sheets which had 4 values containing risk taking profile, (Low risk taking, moderate risk taking,Risk taking,
    High risk taking)
  - Based on the changing drop down value we had to calculate their respective investemnt prospect. In other words which comapnies can the individual invest
